@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "spatial complexity.md",
+            "file": "algorithm.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "spatial complexity.md",
+                "file": "algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,10 @@
   },
   "active": "8869102642ece27a",
   "lastOpenFiles": [
+    "algorithm.md",
     "spatial complexity.md",
     "computational complexity.md",
-    "Big O.md",
+    "Big O notation.md",
     "algorithms resources.md",
     "Pasted image 20220220193105.png"
   ]
