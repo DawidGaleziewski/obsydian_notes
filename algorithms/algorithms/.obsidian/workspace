@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dfd3944f1b1a78d9",
+        "id": "8869102642ece27a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "intro.md",
+            "file": "spatial complexity.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "intro.md",
+                "file": "spatial complexity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,8 +86,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dfd3944f1b1a78d9",
+  "active": "8869102642ece27a",
   "lastOpenFiles": [
-    "intro.md"
+    "spatial complexity.md",
+    "computational complexity.md",
+    "Big O.md",
+    "algorithms resources.md",
+    "Pasted image 20220220193105.png"
   ]
 }
