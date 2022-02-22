@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "algorithm.md",
+            "file": "destructive sort.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "algorithm.md",
+                "file": "destructive sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,15 @@
   },
   "active": "8869102642ece27a",
   "lastOpenFiles": [
-    "algorithm.md",
+    "destructive sort.md",
+    "bubble sort.md",
+    "stable sort.md",
     "algorithms resources.md",
-    "spatial complexity.md",
-    "computational complexity.md",
+    "algorithm trade off.md",
     "Big O notation.md",
-    "Pasted image 20220220193105.png"
+    "algorithm.md",
+    "spatial complexity.md",
+    "Pasted image 20220220193105.png",
+    "computational complexity.md"
   ]
 }
