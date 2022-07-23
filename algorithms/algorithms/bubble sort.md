@@ -17,6 +17,33 @@ Compare two items in an array that are next to each other, if they are out of or
 It is a algorithm that matches human mental model.
 Not a algorithm that would be used in a production
 
+## example implementation in js
+
+```js
+const nums = [10,5,7,8,1,3];
+
+const bubbleSort = (arr) => {
+	
+  let swapped = false; // Only attempt to sort once more if last sort we swapped something
+
+  do {
+    swapped = false; // assume it wont be swapped
+    
+    for(let i = 0; i < arr.length; i++){
+      if(nums[i] > nums[i + 1]){ // if out of order swap and set flag
+        const temp = nums[i];
+        arr[i] = nums[i + 1];
+        arr[i + 1] = temp;
+        swapped = true;
+      }
+    }
+    
+  } while(swapped);
+
+  return arr;
+}
+```
+
 ## Optimitisations
 
 Due to the fact that after first iteration, the largest number will "bubble" to the end of array we know there will be no need for swapping end of the array. The more swaps we do the sorter part of the array we have to check.
